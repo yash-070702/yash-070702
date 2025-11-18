@@ -10,7 +10,7 @@
 - 🏆 Finalist at **Hackhound 2.0** & **InnoTech 3.0**  
 - 🔭 Currently developing **Unified Code** – a real-time collaborative code editor  
 - 🌟 Former **Technical Head (KTS)** & **PR Head (NASA Space Apps Challenge, Ghaziabad)**  
-- 💡 Love solving problems (750+ DSA questions solved across LeetCode, GFG, CodeChef)  
+- 💡 Love solving problems (1000+ DSA questions solved across LeetCode, GFG, CodeChef)  
 
 ---
 

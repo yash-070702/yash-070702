@@ -16,7 +16,7 @@
 
 ## 🛠️ Tech Stack
 **Languages**  
-`C++` `JavaScript` `TypeScript` `HTML/CSS`
+`C++` `JavaScript` `TypeScript` `Python` `HTML/CSS`
 
 **Frontend**  
 `React.js` `Next.js` `Vite` `TailwindCSS` `Framer Motion`
